@@ -1,0 +1,22 @@
+.content {
+ font-size: 17px;
+}
+
+/* .about { */
+/*  font-family: "Times New Roman"; */
+/*  font-size: 55px; */
+/*  font-weight: 200; */
+/*  color: white; */
+/* } */
+
+body {
+ /* background-image: url("../images/11.png"); */
+ /* background-position: center; */
+ /* background-repeat: no-repeat; */
+ /* background-size: cover; */
+ /* background-color: #ebe9e7; */
+ /* font-size: 30px; */
+ /* background-color: #cccccc; */
+ /* background-image: linear-gradient(white, grey); */
+ font-family: Ubuntu, sans-serif;
+}
