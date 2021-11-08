@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex&#39;s Blog</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Alex&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 22:06:24 +0100</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>I am a Portuguese DevOps Engineer passionate about linux, automation, self hosting and open source software.
+I received my Bachelors in Computer Engineering from the University of Coimbra in 2018 and my Masters from Instituto Superior Técnico in 2021, with a specialization in Security. I am also experienced in low level C programming and cryptography.
+My expertise     Linux (RHEL, Debian) C, Java, Python SQL, Bash Git, Ansible, Chef Terraform Docker, Kubernetes Gitlab CI, Github Actions Jenkins Azure, AWS Prometheus, Consul, Vault  Awards &amp;amp; Projects     2nd place @ TecStorm 2019 Hackathon: Developed a mobile app to reduce the social isolation of elderly people, by providing a simple mechanism to send daily feedback to their family Critical Software SIW: Designed a system to provide information and warnings of noise levels in the workspace by collecting bluetooth sensor data on a Raspberry Pi and displaying it in leds and a web dashboard (Linux, Python) 2nd place @ ShiftAppens 2018 Hackathon: Created a mobile app aimed at enabling emergency reports for people with disabilities through an intuitive interface which alerts the proper authorities Meetup App: Developed app to connect local people with similar interests, by allowsing users to create chats for each topic or meetup (Java, Google firebase, Facebook API).</description>
+    </item>
+    
+    <item>
+      <title>Placeholder</title>
+      <link>http://www.example.com/posts/emgfa-demo/</link>
+      <pubDate>Sun, 01 Aug 2021 22:06:24 +0100</pubDate>
+      
+      <guid>http://www.example.com/posts/emgfa-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>Send me an e-mail to avalente@protonmail.com, or send a message to my linkedin.
+Check out my projects in Github.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+  </channel>
+</rss>
