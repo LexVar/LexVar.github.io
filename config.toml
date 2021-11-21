@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://lexvar.github.io"
 title = "Alex's Blog"
 theme = "hugo-coder"
 languageCode = "en"
@@ -16,7 +16,7 @@ publishDir = "docs"
 author = "Alexandre Rodrigues"
 description = "Alexandre's personal website"
 keywords = "blog,developer,personal"
-info = ["DevOps Engineer @ Syone"]
+info = ["DevOps Engineer @ Syone", "From: 🇵🇹 🏖️"]
 avatarURL = "images/perfil.jpg"
 #gravatar = "avalente@protonmail.com"
 #footerContent = "Enter a text here."
@@ -40,7 +40,7 @@ hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 10
 # Enable Twemoji
-enableTwemoji = false
+enableTwemoji = true
 # Custom CSS
 customCSS = ["css/custom.css"]
 # Custom SCSS

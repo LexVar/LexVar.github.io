@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://lexvar.github.io/about/</loc>
     <lastmod>2021-11-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://lexvar.github.io/</loc>
     <lastmod>2021-08-01T22:06:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/emgfa-demo/</loc>
+    <loc>https://lexvar.github.io/posts/emgfa-demo/</loc>
     <lastmod>2021-08-01T22:06:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>https://lexvar.github.io/posts/</loc>
     <lastmod>2021-08-01T22:06:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://lexvar.github.io/authors/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://lexvar.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>https://lexvar.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>https://lexvar.github.io/projects/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://lexvar.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://lexvar.github.io/tags/</loc>
   </url>
   
 </urlset>

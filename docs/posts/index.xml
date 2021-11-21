@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Alex&#39;s Blog</title>
-    <link>http://www.example.com/posts/</link>
+    <link>https://lexvar.github.io/posts/</link>
     <description>Recent content in Posts on Alex&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Aug 2021 22:06:24 +0100</lastBuildDate><atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 22:06:24 +0100</lastBuildDate><atom:link href="https://lexvar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder</title>
-      <link>http://www.example.com/posts/emgfa-demo/</link>
+      <link>https://lexvar.github.io/posts/emgfa-demo/</link>
       <pubDate>Sun, 01 Aug 2021 22:06:24 +0100</pubDate>
       
-      <guid>http://www.example.com/posts/emgfa-demo/</guid>
+      <guid>https://lexvar.github.io/posts/emgfa-demo/</guid>
       <description></description>
     </item>
     
